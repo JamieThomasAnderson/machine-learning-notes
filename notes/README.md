@@ -1,3 +1,2 @@
-# Introduction
+# Machine Learning & Artificial Intelligence
 
-[machine-learning-and-artificial-intelligence.md](machine-learning-and-artificial-intelligence.md "mention")
