@@ -20,4 +20,6 @@ To mitigate underfitting in our models, we can:
 
 1. Select a more complex learning algorithm with more parameters.
 2. Feed better features through **feature engineering**
-3. Reduce constraints on the model (reducing the regularisation hyperparameter)
+3. Reduce constraints on the model
+
+**Poor quality data** will likely produce poor performing models.
